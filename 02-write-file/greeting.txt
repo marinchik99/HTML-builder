@@ -1,4 +1,1 @@
-test 
-word 
-text 
-exit 
+Goodbye!
